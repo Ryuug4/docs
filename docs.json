@@ -4,8 +4,8 @@
   "name": "Ryoiki-Framework",
   "colors": {
     "primary": "#FF1D89",
-    "light": "#07C983",
-    "dark": "#BB5FF9"
+    "light": "#BB5FF9",
+    "dark": "#07C983"
   },
   "favicon": "/favicon.svg",
   "navigation": {
